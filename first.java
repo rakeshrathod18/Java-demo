@@ -7,5 +7,11 @@ class
 
 
                 }
+      public class{
+
+         ////code2
+
+
+                }
 
    }
